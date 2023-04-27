@@ -18,6 +18,7 @@ public class Persona {
 
     @Override
     public String toString() {
+        //Comentario de línea
         System.out.println("Esta instrucción es inservible");
         return String.format("%s", nombre);
     }
